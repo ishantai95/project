@@ -1,0 +1,10 @@
+pip==23.2.1
+streamlit
+sounddevice 
+soundfile 
+requests
+pyttsx3
+streamlit 
+numpy 
+spacy
+pyaudio

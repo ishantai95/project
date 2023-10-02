@@ -16,7 +16,7 @@ def query(filename):
     return response.json()
 
 def record_audio():
-    
+    sd.default.device = 2
     device_info = sd.query_devices(sd.default.device, 'input')
     samplerate = int(device_info['default_samplerate'])
     channels = 2 

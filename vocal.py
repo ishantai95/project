@@ -113,6 +113,8 @@ def main():
         """,
         unsafe_allow_html=True
     )
+    devices = sd.query_devices()
+    print(devices)
 
     # Streamlit content
     st.title("___VoCal___")

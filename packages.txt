@@ -1,2 +1,2 @@
 python3-pyaudio
-alsa-base alsa-utils
+alsa-lib alsa-utils

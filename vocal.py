@@ -88,6 +88,9 @@ def calculations(operation, operands, keyword, document):
        
 
 def main():
+    devices = sd.query_devices()
+    print(devices)
+
     # Add custom CSS to the Streamlit app
     st.markdown(
         """

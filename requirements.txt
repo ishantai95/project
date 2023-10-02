@@ -4,7 +4,6 @@ sounddevice
 soundfile 
 requests
 pyttsx3
-streamlit 
 numpy 
 spacy
-pyaudio
+

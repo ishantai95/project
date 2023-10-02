@@ -4,7 +4,7 @@ import requests
 import pyttsx3
 import streamlit as st
 import numpy as np
-import pyaudio._portaudio as pa
+
 # API setup
 API_URL = "https://api-inference.huggingface.co/models/openai/whisper-large-v2"
 headers = {"Authorization": "Bearer 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"}

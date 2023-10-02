@@ -1,4 +1,4 @@
-pip==23.2.1
+python==3.10
 streamlit
 sounddevice 
 soundfile 
@@ -6,4 +6,3 @@ requests
 pyttsx3
 numpy 
 spacy
-
